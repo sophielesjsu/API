@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "My Favorite Movies",
+      "description": "Movies"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "My Favorite Books",
+      "description": "Books"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "3",
+      "name": "comments",
+      "description": "other people's favorites"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "user 1",
+      "description": "some user comment about item",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "user 2",
+      "description": "some user comment about item",
+      "itemId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "jasonclark's API",
+    "creator": "jasonclark",
+    "about": "A collection of items or things or stuff",
+    "url": "https://www.jasonclark.info"
+  }
+}
