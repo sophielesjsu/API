@@ -43,9 +43,8 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "jasonclark's API",
-    "creator": "jasonclark",
-    "about": "A collection of items or things or stuff",
-    "url": "https://www.jasonclark.info"
+    "name": "Sophie Le API",
+    "creator": "Sophie Le",
+    "about": "A collection of items or things or stuff"
   }
 }
