@@ -27,16 +27,16 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "id": "1",
-      "name": "user 1",
-      "description": "some user comment about item",
+      "name": "Sophie",
+      "description": "collection 1",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "id": "2",
-      "name": "user 2",
-      "description": "some user comment about item",
+      "name": "Guest",
+      "description": "collection 2",
       "itemId": "1"
     }
   ],
